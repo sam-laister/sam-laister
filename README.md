@@ -5,7 +5,7 @@
 
 ![alt text](https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190727123017-01-lil-wayne-0531.jpg)
 
-<br>
+<hr>
 
 Welcome to my profile! I'm a part time coder who's trying to make the most of his gap year. This is a collection of my Cyber Security CTF attempts, projects, and youtube guide source code. Feel free to reach out to collab on projects or if you want a member to join a ctf team!
 
@@ -15,7 +15,7 @@ Reach out on my [Twitter](https://twitter.com/die_slime) and subscribe to my [Yo
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soup666&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Soup666's Github Stats">
 
-</br>
+<hr>
 
 Praise the GOAT ✨ Lil Tunechi ✨
 
