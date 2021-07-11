@@ -5,25 +5,19 @@
 
 ![alt text](https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190727123017-01-lil-wayne-0531.jpg)
 
+<br>
+
 Welcome to my profile! I'm a part time coder who's trying to make the most of his gap year. This is a collection of my Cyber Security CTF attempts, projects, and youtube guide source code. Feel free to reach out to collab on projects or if you want a member to join a ctf team!
 
 Reach out on my [Twitter](https://twitter.com/die_slime) and subscribe to my [YouTube](https://www.youtube.com/channel/UCi1TWO2r29u0Yu4FXMCf7MA)!
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+
+</br>
 
 Praise the GOAT ✨ Lil Tunechi ✨
 
 Last Edited on: 11/07/21
 
-<!--
-**Soup666/Soup666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
