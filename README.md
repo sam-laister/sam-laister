@@ -9,6 +9,8 @@ Welcome to my profile! I'm a part time coder who's trying to make the most of hi
 
 Reach out on my [Twitter](https://twitter.com/die_slime) and subscribe to my [YouTube](https://www.youtube.com/channel/UCi1TWO2r29u0Yu4FXMCf7MA)!
 
+Praise the GOAT ✨ Lil Tunechi ✨
+
 Last Edited on: 11/07/21
 
 <!--
