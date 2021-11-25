@@ -19,7 +19,7 @@ Reach out on my [Twitter](https://twitter.com/die_slime) and subscribe to my [Yo
 
 Praise the GOAT ✨ Lil Tunechi ✨
   
-I do Writeups! https://soup.gitbook.io/htb-writeups/
+I do Writeups! https://soup666.github.io/
 
 Last Edited on: 11/07/21
 
