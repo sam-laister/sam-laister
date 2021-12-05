@@ -11,6 +11,8 @@ Welcome to my profile! I'm a part time coder who's trying to make the most of hi
 
 Reach out on my [Twitter](https://twitter.com/die_slime) and subscribe to my [YouTube](https://www.youtube.com/channel/UCi1TWO2r29u0Yu4FXMCf7MA)!
 
+Find me on [Fiverr](https://www.fiverr.com/lilsoup420)!
+
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soup666&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=1AB21A&icon_color=1AB21A&text_color=8DEB8D&bg_color=0,000000,F14722" alt="Soup666's Github Stats">
