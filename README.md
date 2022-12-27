@@ -9,6 +9,8 @@
 
 Welcome to my profile! I'm a part time coder who's trying to make the most of his gap year. This is a collection of my Cyber Security CTF attempts, projects, and youtube guide source code. Feel free to reach out to collab on projects or if you want a member to join a ctf team!
 
+My Website! https://soup666.github.io/
+
 Reach out on my [Twitter](https://twitter.com/die_slime) and subscribe to my [YouTube](https://www.youtube.com/channel/UCi1TWO2r29u0Yu4FXMCf7MA)!
 
 Find me on [Fiverr](https://www.fiverr.com/lilsoup420)!
