@@ -13,7 +13,7 @@ My Website, a portfolio of a couple of projects done while in Uni! (All still he
 
 Reach out on my [Twitter](https://twitter.com/die_slime)
 
-Find me on [Linkedin]([https://www.fiverr.com/lilsoup420](https://www.linkedin.com/in/sam-laister/))!
+Find me on [Linkedin](https://www.linkedin.com/in/sam-laister/)
 
 <div align="center">
 
