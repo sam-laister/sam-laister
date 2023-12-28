@@ -7,13 +7,13 @@
 
 <hr>
 
-Welcome to my profile! I'm a part time coder who's trying to make the most of his gap year. This is a collection of my Cyber Security CTF attempts, projects, and youtube guide source code. Feel free to reach out to collab on projects or if you want a member to join a ctf team!
+Welcome to my github! It's a bit of a mess currently, new years a busy time! Will be updated as time goes on
 
-My Website! https://soup666.github.io/
+My Website, a portfolio of a couple of projects done while in Uni! (All still heavily under progress) https://soup666.github.io/
 
-Reach out on my [Twitter](https://twitter.com/die_slime) and subscribe to my [YouTube](https://www.youtube.com/channel/UCi1TWO2r29u0Yu4FXMCf7MA)!
+Reach out on my [Twitter](https://twitter.com/die_slime)
 
-Find me on [Fiverr](https://www.fiverr.com/lilsoup420)!
+Find me on [Linkedin]([https://www.fiverr.com/lilsoup420](https://www.linkedin.com/in/sam-laister/))!
 
 <div align="center">
 
@@ -23,7 +23,7 @@ Find me on [Fiverr](https://www.fiverr.com/lilsoup420)!
 
 Praise the GOAT ✨ Lil Tunechi ✨
   
-I do Writeups! https://soup666.github.io/
+I do CTF Writeups! (Coming soon to website) https://soup666.github.io/
 
-Last Edited on: 11/07/21
+Last Edited on: 28/12/23
 
