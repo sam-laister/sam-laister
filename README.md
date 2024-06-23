@@ -15,7 +15,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/sam-laister/)
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Soup666&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=1AB21A&icon_color=1AB21A&text_color=8DEB8D&bg_color=0,000000,F14722" alt="Soup666's Github Stats">
+[![Soups's GitHub stats](https://github-readme-stats.vercel.app/api?username=soup666&include_all_commits=true&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=synthwave)](https://github.com/soup666/github-readme-stats)
 
 <hr>
 
