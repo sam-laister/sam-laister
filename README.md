@@ -1,5 +1,5 @@
 # Soup
-[![Twitter Badge](https://img.shields.io/badge/-@__Die_Slime-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/die_slime)](https://twitter.com/die_slime)
+[![Twitter Badge](https://img.shields.io/badge/-@Sam_laister-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sam_laister)](https://twitter.com/sam_laister)
 
 <hr>
 
