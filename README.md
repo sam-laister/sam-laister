@@ -3,9 +3,9 @@
 
 <hr>
 
-Hi, I'm Sam 👋, 3rd year Uni student at Sheffield Main.
+Hi, I'm Sam 👋, a 2025 Sheffield University Graduate.
 
-My Website, a portfolio of a couple of projects done while in Uni! (All still heavily under progress) https://soup666.github.io/
+I'm currently maintaining Model Maker: A fullstack photogrammetry suite, while actively building Soundglyph: a self-hostable music library 
 
 Socials:
  - Find me on [Linkedin](https://www.linkedin.com/in/sam-laister/)
